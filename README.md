@@ -7,5 +7,5 @@ Web responsivo que utiliza as linguagens:
 - CSS;
 - JavaScript.
 
-- Visual
+- Visual da Page:
 ![image](https://github.com/MariMari-Pacini/FrontEnd-Mentor-QrCode/assets/102255019/9823fb43-867b-4b39-9e94-e1d082856501)
